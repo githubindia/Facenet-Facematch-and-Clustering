@@ -1,0 +1,4 @@
+images/*.jpg
+my_img/*.jpg
+results/*
+__pycache__
